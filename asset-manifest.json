@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SitePerso/static/css/main.ef72105e.chunk.css",
+    "main.js": "/SitePerso/static/js/main.bde53c64.chunk.js",
+    "main.js.map": "/SitePerso/static/js/main.bde53c64.chunk.js.map",
+    "runtime-main.js": "/SitePerso/static/js/runtime-main.f2ab2d07.js",
+    "runtime-main.js.map": "/SitePerso/static/js/runtime-main.f2ab2d07.js.map",
+    "static/js/2.1e5a4a8c.chunk.js": "/SitePerso/static/js/2.1e5a4a8c.chunk.js",
+    "static/js/2.1e5a4a8c.chunk.js.map": "/SitePerso/static/js/2.1e5a4a8c.chunk.js.map",
+    "index.html": "/SitePerso/index.html",
+    "static/css/main.ef72105e.chunk.css.map": "/SitePerso/static/css/main.ef72105e.chunk.css.map",
+    "static/js/2.1e5a4a8c.chunk.js.LICENSE.txt": "/SitePerso/static/js/2.1e5a4a8c.chunk.js.LICENSE.txt",
+    "static/media/en.a88a30de.svg": "/SitePerso/static/media/en.a88a30de.svg",
+    "static/media/fr.5876a722.svg": "/SitePerso/static/media/fr.5876a722.svg",
+    "static/media/maths1.8d686763.png": "/SitePerso/static/media/maths1.8d686763.png",
+    "static/media/maths2.b7ecbca1.png": "/SitePerso/static/media/maths2.b7ecbca1.png",
+    "static/media/photo3.67b8b506.jpeg": "/SitePerso/static/media/photo3.67b8b506.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2ab2d07.js",
+    "static/js/2.1e5a4a8c.chunk.js",
+    "static/css/main.ef72105e.chunk.css",
+    "static/js/main.bde53c64.chunk.js"
+  ]
+}
